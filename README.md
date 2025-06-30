@@ -1,6 +1,8 @@
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/harehimself/nextjs-boilerplate/main/nextjs-boilerplate.png">
 </p>
+
 <p align="center">
    Production-ready Next.js boilerplate with modern development tools and best practices. Features TypeScript, Tailwind CSS, authentication, database integration, and deployment configurations. Designed for rapid application development with enterprise-grade architecture. Includes testing frameworks, CI/CD pipelines, and performance optimizations. Perfect for building scalable web applications with minimal setup time.
 </p>
